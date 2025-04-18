@@ -1,4 +1,4 @@
-# 🎓 GradeCast - Advanced GPA Prediction App
+# 🎓 GradeCast - Advanced GPA Prediction App (https://ainexusgradecast.streamlit.app/)
 
 Welcome to **GradeCast**, an innovative app designed for predicting GPA and providing insightful analysis for academic tracking using advanced machine learning models.
 
