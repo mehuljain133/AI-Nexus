@@ -1,4 +1,4 @@
-# 🩺 GlycoTrack - Advanced Diabetes Prediction App
+# 🩺 GlycoTrack - Advanced Diabetes Prediction App (https://ainexusglycotrack.streamlit.app/)
 
 Welcome to **GlycoTrack** – an advanced application for predicting the likelihood of diabetes. Enter the required health metrics below to receive an accurate prediction, utilizing a variety of state-of-the-art machine learning algorithms.
 
