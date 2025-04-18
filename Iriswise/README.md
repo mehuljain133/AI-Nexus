@@ -16,43 +16,6 @@ Welcome to **IrisWise**! This application predicts the species of an Iris flower
 
 - **Custom Animations:** 🎨 Experience unique animations and transitions, including Lottie and JavaScript animations, that enhance the visual appeal of the app. **(Working On It...)**
 
-## Demo
-
-**Check out the live demo on :** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iriswise.streamlit.app/)
-
-## Preview
-
-![IrisWise Screenshot](https://github.com/user-attachments/assets/c6eb8853-cdbf-490d-808e-321f54aac302)
-
----
-
-## 🚀 How to Use Iriswise
-
-1. **Clone the Repository**:
-   ```bash
-    git clone https://github.com/Hunterdii/AI-Nexus.git
-   ```
-
-2. **Navigate to ObjexVision App Directory**:
-   ```bash
-   cd AI-Nexus/Iriswise
-   ```
-
-3. **Install the Required Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the ObjexVision Streamlit App**:
-   ```bash
-   streamlit run Iris1.py
-   ```
-
-5. **Open the App**: Open your browser and go to `http://localhost:8501` to use the ObjexVision app.
-
----
-
-
 ## Customization
 
 You can customize the app to your liking by modifying the CSS for styling, updating the machine learning models, or adding new features. The code is well-documented to help you navigate and tweak the application as needed.
