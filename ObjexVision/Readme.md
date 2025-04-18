@@ -1,4 +1,4 @@
-# 🖼️ ObjexVision - Advanced Object Recognition App
+# 🖼️ ObjexVision - Advanced Object Recognition App (https://ainexusobjexvision.streamlit.app/)
 
 Welcome to **ObjexVision**, a powerful image recognition app that utilizes advanced machine learning models to classify objects from the CIFAR-10 dataset. 
 
