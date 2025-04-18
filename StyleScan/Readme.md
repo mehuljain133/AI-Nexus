@@ -1,4 +1,4 @@
-# 👗 StyleScan - Advanced Fashion Image Classification App
+# 👗 StyleScan - Advanced Fashion Image Classification App (https://ainexusstylescan.streamlit.app/)
 
 Welcome to **StyleScan**, an innovative app designed for accurately classifying fashion items using advanced machine learning models.
 
