@@ -1,4 +1,4 @@
-# 🌼 IrisWise - Iris Species Prediction Model 🌺
+# 🌼 IrisWise - Iris Species Prediction Model 🌺 (https://ainexusiriswise.streamlit.app/)
 
 Welcome to **IrisWise**! This application predicts the species of an Iris flower based on its features using various machine learning models. Currently, it implements K-Nearest Neighbors, with plans to include more models like Random Forest, SVM, and Logistic Regression.
 
